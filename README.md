@@ -1,6 +1,6 @@
 # Practice-of-semantic-HTML
 
-##Description
+## Description
 
 This repository contains a practice exercise of the use of HTML semantic elements. 
 
